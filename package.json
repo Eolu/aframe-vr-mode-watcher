@@ -1,0 +1,35 @@
+{
+    "name": "aframe-vr-mode-watcher",
+    "version": "1.0.0",
+    "description": "a-frame component which adds a state to an entity signaling whether or not VR mode is active.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Eolu/aframe-vr-mode-watcher"
+    },
+    "keywords": [
+        "aframe",
+        "aframe-component",
+        "aframe-vr",
+        "vr",
+        "mozvr",
+        "webvr"
+    ],
+    "author": "Griffin O'Neill",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Eolu/aframe-vr-mode-watcher/issues"
+    },
+    "homepage": "https://github.com/Eolu/aframe-vr-mode-watcher#readme",
+    "devDependencies": {
+        "aframe": "^1.0.0",
+    },
+    "semistandard": {
+        "ignore": [
+            "dist/**"
+        ]
+    }
+}
