@@ -25,11 +25,6 @@
     },
     "homepage": "https://github.com/Eolu/aframe-vr-mode-watcher#readme",
     "devDependencies": {
-        "aframe": "^1.0.0",
-    },
-    "semistandard": {
-        "ignore": [
-            "dist/**"
-        ]
+        "aframe": "^1.0.0"
     }
 }
