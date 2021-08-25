@@ -1,3 +1,7 @@
+# Deprecated!
+
+This functionality is now provided natively in a-frame.
+
 # VR Mode Watcher
 
 This component adds a state to an entity signaling whether or not VR mode is active.
